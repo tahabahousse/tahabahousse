@@ -1,16 +1,14 @@
 # Ciao, sono Taha 👋
 
-Studente della laurea magistrale in **Finanza Aziendale e Mercati Finanziari** all'Università di Torino. Mi interessano finanza, marketing e il modo in cui l'AI generativa può rendere la comunicazione dei brand più coerente, non più rumorosa.
-
-Costruisco prototipi con il supporto di strumenti di AI.
+Studente della laurea magistrale in **Finanza Aziendale e Mercati Finanziari** all'Università di Torino. Costruisco piccoli strumenti web di finanza, utili a chi deve prendere decisioni su mutui, investimenti e valutazioni, con il supporto di strumenti di AI.
 
 ## Progetti
 
-| Progetto | Cosa fa | Demo |
+| Progetto | Cosa fa | Usalo |
 |---|---|---|
-| [Brand Guardian Lite](https://github.com/tahabahousse/brand-guardian-lite) | Punteggio di coerenza col brand e controllo anti "AI slop" per testi di marketing | [Apri](https://tahabahousse.github.io/brand-guardian-lite/) |
+| [Calcolatore mutuo](https://github.com/tahabahousse/calcolatore-mutuo) | Rata, piano di ammortamento, estinzione anticipata, export CSV | [Apri](https://tahabahousse.github.io/calcolatore-mutuo/) |
+| [Confronto costi ETF](https://github.com/tahabahousse/confronto-costi-etf) | Quanto pesano TER e commissioni sul capitale finale | [Apri](https://tahabahousse.github.io/confronto-costi-etf/) |
 | [Market Outlook USA](https://github.com/tahabahousse/market-outlook-usa) | Landing per una newsletter sui mercati USA con calcolatore DCF | [Apri](https://tahabahousse.github.io/market-outlook-usa/) |
-| [Sound Identity](https://github.com/tahabahousse/music-branding-studio) | Landing per uno studio di music branding con generatore di sonic logo | [Apri](https://tahabahousse.github.io/music-branding-studio/) |
 
 ## Interessi
-Finanza aziendale · Mercati USA · Marketing e brand · Generative AI
+Finanza aziendale · Mercati USA · Finanza personale · Generative AI
